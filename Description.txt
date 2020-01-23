@@ -1,0 +1,9 @@
+﻿Group: Widgets
+FriendlyName: Auctions
+SystemName: Widgets.Auctions
+Version: 0.1
+SupportedVersions: 3.90
+Author: Jeysson Guevara
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.Auctions.dll
+Description: This plugin implements auctions.

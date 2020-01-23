@@ -1,0 +1,11 @@
+E:\VSProjects\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Auctions\Description.txt
+E:\VSProjects\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Auctions\web.config
+E:\VSProjects\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Auctions\Views\PlaceOfferButton.cshtml
+E:\VSProjects\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Auctions\Views\Configure.cshtml
+E:\VSProjects\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Auctions\Nop.Plugin.Widgets.Auctions.dll.config
+E:\VSProjects\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Auctions\Nop.Plugin.Widgets.Auctions.dll
+E:\VSProjects\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Auctions\Nop.Plugin.Widgets.Auctions.pdb
+E:\VSProjects\nopCommerce_3.90_Source\Nop.Plugin.Widgets.Auctions\obj\Debug\Nop.Plugin.Widgets.Auctions.csprojAssemblyReference.cache
+E:\VSProjects\nopCommerce_3.90_Source\Nop.Plugin.Widgets.Auctions\obj\Debug\Nop.Plugin.Widgets.Auctions.dll
+E:\VSProjects\nopCommerce_3.90_Source\Nop.Plugin.Widgets.Auctions\obj\Debug\Nop.Plugin.Widgets.Auctions.pdb
+E:\VSProjects\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Auctions\Views\PlaceOfferModal.cshtml

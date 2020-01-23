@@ -1,0 +1,22 @@
+﻿@using Nop.Plugin.Widgets.Auctions.Services
+
+<div id="widget-auctions-placeOffer-modal" title="Place an Offer for this product.">
+    My Modal
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        const $modal = $('#widget-auctions-placeOffer-modal');
+
+        $modal.dialog({
+            autoOpen: false,
+            modal: true,
+            height: "auto",
+            width: 400,
+        });
+
+        $('.place-offer-button').on('click', function () {
+            $modal.dialog('open');
+        });
+    });
+</script>
